@@ -6,7 +6,33 @@ This project runs as a static site and is suitable for deployment with **GitHub 
 
 ## Live Demo
 
-View the GitHub Pages site here:
+https://frankstop.github.io/MatrixRain/
+
+## Preview
+
+MatrixRain renders a fullscreen black canvas with falling green characters inspired by the classic Matrix code rain effect.
+
+The animation uses:
+
+- Japanese Katakana characters
+- Numbers
+- Uppercase English letters
+- A fading canvas trail effect
+- A responsive fullscreen layout
+
+## Features
+
+- Fullscreen canvas animation
+- Matrix-style falling code effect
+- Responsive browser resizing
+- No external libraries
+- No build process
+- Pure HTML, CSS, and JavaScript
+- GitHub Pages compatible
+
+## Project Structure
 
 ```text
-https://frankstop.github.io/MatrixRain/
+MatrixRain/
+├── index.html
+└── README.md
